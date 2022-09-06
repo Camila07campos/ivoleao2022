@@ -6,6 +6,10 @@ h1 {
     text-align: center
 }
 
+#hamburguer {
+    width: 100%;
+}
+
 p {
     text-align: center;
 }
