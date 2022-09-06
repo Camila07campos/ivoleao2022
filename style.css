@@ -1,7 +1,14 @@
+body {
+    background: #CCCCCC
+}
+
 p {
     text-align: center;
 }
 
-body {
-    background: #ee0c0c
+strong {
+    color: red;
 }
+
+
+
