@@ -24,3 +24,8 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
+.imagem {
+    width: 350px;
+    height: 250px;
+}
