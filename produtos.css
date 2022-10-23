@@ -45,6 +45,7 @@ nav a {
     background: #CCCCCC;
     margin: 0 1.5%;
     padding: 30px 20px;
+    box-sizing: bonder-box;
 }
 
 .produtos h2 {
@@ -55,5 +56,7 @@ nav a {
 .produto-preco {
     font-size: 22px;
     font-weight: bold;
+    margin: 10px 0 0;
+    margin-top: 10px;
 }
 
