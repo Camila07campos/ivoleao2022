@@ -27,8 +27,8 @@ nav a {
 }
 
 .imagem {
-    width: 150px;
-    height: 50px;
+    width: 250px;
+    height: 150px;
 }
 
 .produtos {
@@ -38,4 +38,7 @@ nav a {
 
 .produtos li {
     display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
 }
