@@ -66,7 +66,7 @@ nav a:hover{
 }
 
 .produtos li:houver h2 {
-    fant-size: 34px;
+    font-size: 34px;
 }
 
 .produtos h2 {
@@ -82,8 +82,8 @@ nav a:hover{
 }
 
 footer {
-    text-aligh: center;
-    background: url();
+    text-align: center;
+    background: url(hamburgueria2.png);
     padding: 40px 0;
 }
 
