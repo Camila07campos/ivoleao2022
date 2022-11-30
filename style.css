@@ -169,4 +169,25 @@ td, th {
   padding: 8px 15px;
 }
 
- /* Css da pagina inicial */
+/* css da página inicial */
+.banner {
+    width:100%;
+}
+
+.titulo-principal {
+   text-aligh: center;
+   font-size: 2em;
+   margin: 0 0 1em;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
